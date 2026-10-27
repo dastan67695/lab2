@@ -40,3 +40,10 @@ body {
 
 .section__title { margin-bottom: 1rem; font-size: 1.125rem; color: #2b2d42; }
 .section__list { padding-left: 1.5rem; }
+.footer {
+    padding: 1rem 2rem;
+    text-align: center;
+    font-size: 0.75rem;
+    background: #2b2d42;
+    color: #edf2f4;
+}
