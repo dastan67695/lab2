@@ -28,3 +28,15 @@ body {
 .header__nav { display: flex; gap: 1.5rem; }
 .header__nav a { color: #edf2f4; text-decoration: none; }
 .header__nav a:hover { color: #ef233c; }
+.main { max-width: 960px; margin: 0 auto; padding: 2rem; }
+
+.section {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    background: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.section__title { margin-bottom: 1rem; font-size: 1.125rem; color: #2b2d42; }
+.section__list { padding-left: 1.5rem; }
